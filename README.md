@@ -1,4 +1,4 @@
-<h1 align="center">ReadMe-Generator</h1>
+<h1 align="center">User Directory</h1>
 
 ## Description
 📖 The User Directory allows you to look through you daily users, and sort through the users shown based on the category and property you use.
